@@ -1,4 +1,4 @@
-# call_center_regression_analysis
+# Call Center Regression Analysis
 
 The goal of the project is to analyze the call center dataset and make relevant recommendations to the business. 
 
